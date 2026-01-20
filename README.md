@@ -1,1 +1,1 @@
-Sergei Treil 所著 [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf) 部分习题解答与笔记，仅供个人记录，内容恐多有舛谬
+Sergei Treil 所著 [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW_2025_08-25.pdf) 部分习题解答与笔记，仅供个人记录，内容恐多有舛谬
